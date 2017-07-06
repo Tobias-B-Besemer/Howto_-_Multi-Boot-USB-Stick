@@ -1,0 +1,159 @@
+LV-Crew.org - Multi-Boot-USB-Stick - Howto Deutsch
+==================================================
+Autoren: slim23_4-EveR / kILLER_bUG / Eve_L.
+
+Stand: 2010-11-29
+
+IF YOU NEED AN ENGLISH VERSION OF THIS HOWTO: ASK FOR IT !!!
+
+
+
+Verwendete Hardware:
+--------------------
+- Microsoft-Windows-PC
+- Kingston - 16GB microSD-Card with Key-Adapter
+  http://www.kingston.com/deroot/flash/multi_kit.asp
+
+
+
+Verwendete Software:
+--------------------
+- MultiBootISOs
+  http://www.pendrivelinux.com/boot-multiple-iso-from-usb-multiboot-usb/
+  File: MultiBootISOs-2.1.4.0.exe
+
+
+
+ACHTE DARAUF, DASS DU ERST ALTE ISOS (VON ÄLTEREN INSTALLATIONEN) LÖSCHEN MUSST !!!
+
+
+
+Inhalt (automatisch - ISOFILES):
+--------------------------------
+- MemTest86+
+  (Memory Testing Tool)
+  http://www.memtest.org/
+  memtest86+-4.10.iso.zip
+- FreeDOS (Balder img)
+  balder10.img
+- Debian Live
+  debian-live.iso
+- Offline NT Password & Registry Editor
+  cd100627.zip
+- Rip Linux
+  (Recovery Distro)
+  RIPLinuX.iso
+- Ultimate Boot CD (UBCD)
+  (Diagnostics Tools)
+  http://www.ultimatebootcd.com/
+  ubcd503.iso
+- Ophcrack XP
+  (Password Finder)
+  ophcrack-xp-livecd-2.3.1.iso
+- Ubuntu Rescue Remix
+  (System Rescue)
+  ubuntu-rescue-remix-10-04.iso
+- Ubuntu 10.10 Desktop i386
+  http://www.ubuntu.com/desktop/get-ubuntu/download
+  ubuntu-10.10-desktop-i386.iso
+- Xubuntu 10.10 Desktop i386
+  xubuntu-10.10-desktop-i386.iso
+- Kubuntu 10.10 Desktop i386
+  http://www.kubuntu.org/getkubuntu/download
+  kubuntu-10.10-desktop-i386.iso
+- Lubuntu 10.10 Desktop i386
+  lubuntu-10.10.iso
+- Parted Magic
+  (Partition Tools)
+  pmagic-5.4.iso.zip
+- GParted
+  (Partition Tools)
+  gparted-live-0.6.2-2.iso
+- Partition Wizard
+  (Partition Tools)
+  pwhe5.iso
+- Clonezilla
+  (Backup + Clone Tool)
+  http://clonezilla.org/download/sourceforge/alternative/iso-zip-files.php
+  clonezilla-live-20100921-lucid.zip
+- Redo Backup AND Recovery
+  (Recovery Tools)
+  redobackup.iso
+- Kaspersky Rescue Disk
+  (Antivirus Scanner)
+  rescue\rescue.iso
+- AVG Rescue CD
+  (Antivirus Scanner)
+  avg.iso
+- Bitdefender Rescue Disk
+  (Antivirus Scanner)
+  bitdefender-rescue-cd.iso
+- AVIRA AntiVir Rescue CD
+  (Virus Scanner)
+  rescue_system-common-en.iso
+- BackTrack4Final
+  (Penetration Testing)
+  http://www.backtrack-linux.org/downloads/
+  bt4-r1.iso
+- System Rescue CD
+  systemrescuecd.iso
+- Trinity Rescue Kit
+  trinity-rescue-kit.iso
+
+
+
+Inhalt.2 (nicht automatisch - ISOFILES.2):
+------------------------------------------
+- EASUS Disk Copy
+  (Disk Cloning Tool)
+  
+
+
+
+
+
+
+
+
+  
+menu.lst
+-> anpassen !!!
+
+
+
+
+
+
+
+- Hitachi - Drive Fitness Test - Version 4.16
+  Festplatten-Analyse
+  http://www.hitachigst.com/support/downloads/#DFT
+  dft32_v416_b00.iso
+
+
+- DEFT Linux (für Forensic)
+  deftv5.1.iso
+- ReactOS
+  ReactOS-0.3.11-REL-iso
+- GNUSTEP
+  GNUSTEP-i686-2.0.iso
+- caine
+  caine1.5.iso
+- Hiren's.BootCD
+  Hiren's.BootCD.11.0.iso
+- Part-CD
+  P...
+- SeaTools
+  SeaToolsDOS221ALL.576.ISO
+  http://www.seagate.com/ww/v/index.jsp?locale=en-US&name=seatools-vietnam&vgnextoid=dfa9e98bde729210VgnVCM1000001a48090aRCRD
+
+- Hardware-Check
+  pchk6-xiso.bin
+
+
+
+
+
+
+
+clonezilla-live-lucid.zip
